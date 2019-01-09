@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+
+body {
+	font-family: 'Inconsolata', monospace;
+	font-size: 1.5em !important;
+}
+
+.jumbotron {
+	border-radius: 0px !important;
+}
